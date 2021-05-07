@@ -16,7 +16,11 @@ Citing ADAQ in scientific works
 
 This is presently the preferred citation:
 
-- Davidsson, J., Ivády, V., Armiento, R., & Abrikosov, I. A. ADAQ: Automatic workflows for magneto-optical properties of point defects in semiconductors. `*arXiv preprint arXiv:2008.12539* <https://arxiv.org/abs/2008.12539>`_ (**2020**)
+- Davidsson, J., Ivády, V., Armiento, R., & Abrikosov, I. A. ADAQ: Automatic workflows for magneto-optical properties of point defects in semiconductors. |arxiv|_ (**2020**)
+
+.. _arxiv: https://arxiv.org/abs/2008.12539
+
+.. |arxiv| replace:: *arXiv preprint arXiv:2008.12539*
 
 Source Code
 -----------
