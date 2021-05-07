@@ -20,7 +20,7 @@ This is presently the preferred citation:
 
 .. _arxiv: https://arxiv.org/abs/2008.12539
 
-.. |arxiv| replace:: *arXiv preprint arXiv:2008.12539*
+.. |arxiv| replace:: *arXiv:2008.12539 [cond-mat.mtrl-sci]*
 
 Source Code
 -----------
