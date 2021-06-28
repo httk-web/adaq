@@ -30,7 +30,7 @@ of Point Defects in SiC, Ph.D. thesis, |thesis|_ (**2021**)
 
 .. _thesis: https://doi.org/10.3384/diss.diva-173108
 
-.. |thesis| replace:: *Ph.D. thesis, Link¨oping University Electronic Press*
+.. |thesis| replace:: *Ph.D. thesis, Linköping University Electronic Press*
 
 Source Code
 -----------
