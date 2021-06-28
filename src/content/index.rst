@@ -25,8 +25,7 @@ This is presently the preferred citation:
 Other References
 ----------------
 
-- J. Davidsson, Color Centers in Semiconductors for Quantum Applications: A High-Throughput Search
-of Point Defects in SiC, Ph.D. thesis, |thesis|_ (**2021**)
+- J. Davidsson, Color Centers in Semiconductors for Quantum Applications: A High-Throughput Search of Point Defects in SiC, Ph.D. thesis, |thesis|_ (**2021**)
 
 .. _thesis: https://doi.org/10.3384/diss.diva-173108
 
