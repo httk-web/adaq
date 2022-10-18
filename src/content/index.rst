@@ -16,7 +16,7 @@ Citing ADAQ in scientific works
 
 This is presently the preferred citation:
 
-- Davidsson, J., Ivády, V., Armiento, R., & Abrikosov, I. A. ADAQ: Automatic workflows for magneto-optical properties of point defects in semiconductors. |paper|_ (**2021**)
+- Davidsson, J., Ivády, V., Armiento, R., & Abrikosov, I. A., ADAQ: Automatic workflows for magneto-optical properties of point defects in semiconductors. |paper|_ (**2021**)
 
 .. _paper: https://doi.org/10.1016/j.cpc.2021.108091
 
@@ -24,6 +24,12 @@ This is presently the preferred citation:
 
 Other References
 ----------------
+
+- Davidsson, J., Babar, R., Shafizadeh, D., Ivanov, I. G., Ivády, V., Armiento, R., & Abrikosov, I. A., Exhaustive characterization of modified Si vacancies in 4H-SiC., |paper2|_ (**2022**)
+
+.. _paper2: https://doi.org/10.1515/nanoph-2022-0400
+
+.. |paper2| replace:: *Nanophotonics, 11(20), 4565-4580*
 
 - Davidsson J., Color Centers in Semiconductors for Quantum Applications: A High-Throughput Search of Point Defects in SiC, Ph.D. thesis, |thesis|_ (**2021**)
 
