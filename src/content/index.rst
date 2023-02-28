@@ -25,6 +25,12 @@ This is presently the preferred citation:
 Other References
 ----------------
 
+- Davidsson, J., Vorwerk, C., Galli G., Ab Initio Predictions of Spin Defects in Simple Oxides, |paper3|_ (**2023**)
+
+.. _paper3: https://arxiv.org/abs/2302.07523
+
+.. |paper3| replace:: *arXiv:2302.07523*
+
 - Davidsson, J., Babar, R., Shafizadeh, D., Ivanov, I. G., Ivády, V., Armiento, R., & Abrikosov, I. A., Exhaustive characterization of modified Si vacancies in 4H-SiC., |paper2|_ (**2022**)
 
 .. _paper2: https://doi.org/10.1515/nanoph-2022-0400
