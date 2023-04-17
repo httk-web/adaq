@@ -31,6 +31,12 @@ Other References
 
 .. |cao| replace:: *arXiv:2302.07523*
 
+- Davidsson, J., Bertoldo, F., Thygesen, K. S., & Armiento, R., Absorption versus adsorption: high-throughput computation of impurities in 2D materials, |abad|_ (**2023**)
+
+.. _abad: https://www.nature.com/articles/s41699-023-00380-6
+
+.. |abad| replace:: *npj 2D Materials and Applications, 7(1), 1-7*
+
 - Davidsson, J., Babar, R., Shafizadeh, D., Ivanov, I. G., Ivády, V., Armiento, R., & Abrikosov, I. A., Exhaustive characterization of modified Si vacancies in 4H-SiC., |modvac|_ (**2022**)
 
 .. _modvac: https://doi.org/10.1515/nanoph-2022-0400
