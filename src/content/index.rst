@@ -16,26 +16,26 @@ Citing ADAQ in scientific works
 
 This is presently the preferred citation:
 
-- Davidsson, J., Ivády, V., Armiento, R., & Abrikosov, I. A., ADAQ: Automatic workflows for magneto-optical properties of point defects in semiconductors. |paper|_ (**2021**)
+- Davidsson, J., Ivády, V., Armiento, R., & Abrikosov, I. A., ADAQ: Automatic workflows for magneto-optical properties of point defects in semiconductors. |adaq|_ (**2021**)
 
-.. _paper: https://doi.org/10.1016/j.cpc.2021.108091
+.. _adaq: https://doi.org/10.1016/j.cpc.2021.108091
 
-.. |paper| replace:: *Computer Physics Communications, 108091*
+.. |adaq| replace:: *Computer Physics Communications, 108091*
 
 Other References
 ----------------
 
-- Davidsson, J., Vorwerk, C., Galli G., Ab Initio Predictions of Spin Defects in Simple Oxides, |paper3|_ (**2023**)
+- Davidsson, J., Vorwerk, C., Galli G., Ab Initio Predictions of Spin Defects in Simple Oxides, |cao|_ (**2023**)
 
-.. _paper3: https://arxiv.org/abs/2302.07523
+.. _cao: https://arxiv.org/abs/2302.07523
 
-.. |paper3| replace:: *arXiv:2302.07523*
+.. |cao| replace:: *arXiv:2302.07523*
 
-- Davidsson, J., Babar, R., Shafizadeh, D., Ivanov, I. G., Ivády, V., Armiento, R., & Abrikosov, I. A., Exhaustive characterization of modified Si vacancies in 4H-SiC., |paper2|_ (**2022**)
+- Davidsson, J., Babar, R., Shafizadeh, D., Ivanov, I. G., Ivády, V., Armiento, R., & Abrikosov, I. A., Exhaustive characterization of modified Si vacancies in 4H-SiC., |modvac|_ (**2022**)
 
-.. _paper2: https://doi.org/10.1515/nanoph-2022-0400
+.. _modvac: https://doi.org/10.1515/nanoph-2022-0400
 
-.. |paper2| replace:: *Nanophotonics, 11(20), 4565-4580*
+.. |modvac| replace:: *Nanophotonics, 11(20), 4565-4580*
 
 - Davidsson J., Color Centers in Semiconductors for Quantum Applications: A High-Throughput Search of Point Defects in SiC, Ph.D. thesis, |thesis|_ (**2021**)
 
