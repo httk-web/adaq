@@ -25,7 +25,13 @@ This is presently the preferred citation:
 Other References
 ----------------
 
-- Davidsson, J., Vorwerk, C., Galli G., Ab Initio Predictions of Spin Defects in Simple Oxides, |cao|_ (**2023**)
+- Davidsson, J., Stenlund, W., Parackal, A., Armiento, R., & Abrikosov, I. A., Na in Diamond: High Spin Defects Revealed by the ADAQ High-Throughput Computational Database, |diamond|_ (**2023**)
+
+.. _diamond: https://arxiv.org/abs/2306.11116
+
+.. |diamond| replace:: *arXiv:2306.11116*
+
+- Davidsson, J., Vorwerk, C., & Galli G., Ab Initio Predictions of Spin Defects in Simple Oxides, |cao|_ (**2023**)
 
 .. _cao: https://arxiv.org/abs/2302.07523
 
