@@ -25,6 +25,12 @@ This is presently the preferred citation:
 Other References
 ----------------
 
+- Stenlund, W., Davidsson, J., Ivády, V., Armiento, R., & Abrikosov, I. A., ADAQ-SYM: Automated Symmetry Analysis of Defect Orbitals, |adaqsym|_ (**2023**)
+
+.. _adaqsym: https://arxiv.org/abs/2307.04381
+
+.. |adaqsym| replace:: *arXiv:2307.04381*
+
 - Davidsson, J., Stenlund, W., Parackal, A., Armiento, R., & Abrikosov, I. A., Na in Diamond: High Spin Defects Revealed by the ADAQ High-Throughput Computational Database, |diamond|_ (**2023**)
 
 .. _diamond: https://arxiv.org/abs/2306.11116
