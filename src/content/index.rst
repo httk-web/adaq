@@ -11,6 +11,11 @@ ADAQ
 
 ADAQ is a collection of automatic workflows used for high-throughput calculations of point defects in semiconductors. These workflows are implemented using *httk*. ADAQ automates every step in the theoretical process of calculating defects: it relaxes the unit cell, creates the defect supercells with arbitrarily sized defect clusters, screens these defects for the most relevant properties, and fully characterizes the point defects. The full characterization workflow calculates magneto-optical properties, such as zero phonon lines (ZPL), zero field splitting (ZFS), and hyperfine coupling parameters, for many different charge and spin states of the defects.
 
+Database
+--------
+The data will be available shortly.
+
+
 Citing ADAQ in scientific works
 ---------------------------------
 
