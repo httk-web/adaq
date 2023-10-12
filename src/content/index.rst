@@ -13,7 +13,7 @@ ADAQ is a collection of automatic workflows used for high-throughput calculation
 
 Database
 --------
-The data will be available shortly.
+We are readying a public online version of the ADAQ database with a planned release during Autumn 2023. A link will be provided here.
 
 
 Citing ADAQ in scientific works
