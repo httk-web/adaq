@@ -75,3 +75,12 @@ Contact
 -------
 
 Send your questions and inquiries about ADAQ to joel.davidsson [at] liu.se
+
+Acknowledgements
+----------------
+ADAQ has been made possible in part by funding from:
+
+* Swedish e-Science Research Centre (SeRC)
+* Vetenskapsrådet (VR)
+* Computational resources: The computations were enabled by resources provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS) and the Swedish National Infrastructure for Computing (SNIC) at NSC and PDC partially funded by the Swedish Research Council through grant agreements no. 2022-06725 and no. 2018-05973.
+
