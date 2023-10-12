@@ -82,8 +82,9 @@ ADAQ has been made possible in part by funding from:
 
 * Swedish e-Science Research Centre (SeRC)
 * Vetenskapsrådet (VR)
-* Computational resources: 
 
-  - The computations were enabled by resources provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS) and the Swedish National Infrastructure for Computing (SNIC) at NSC and PDC partially funded by the Swedish Research Council through grant agreements no. 2022-06725 and no. 2018-05973.
-  - Partnership for Advanced Computing in Europe (PRACE) 24th call Tier-0 allocation `2021250069 <https://prace-ri.eu/hpc-access/project-access/project-access-awarded-projects/projects-awarded-under-prace-project-access-call-24/#FundamentalConstituentsOfMatter>`__ on MareNostrum, Spain.
-  - `Euro-HPC EHPC-REG-2022R03-198 <https://eurohpc-ju.europa.eu/access-our-supercomputers/awarded-projects/large-scale-defect-characterization-and-design-quantum-technologies_en>`__ on LUMI in Kajana, Finland.
+And computational resources from: 
+
+* The computations were enabled by resources provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS) and the Swedish National Infrastructure for Computing (SNIC) at NSC and PDC partially funded by the Swedish Research Council through grant agreements no. 2022-06725 and no. 2018-05973.
+* Partnership for Advanced Computing in Europe (PRACE) 24th call Tier-0 allocation `2021250069 <https://prace-ri.eu/hpc-access/project-access/project-access-awarded-projects/projects-awarded-under-prace-project-access-call-24/#FundamentalConstituentsOfMatter>`__ on MareNostrum, Spain.
+* `Euro-HPC EHPC-REG-2022R03-198 <https://eurohpc-ju.europa.eu/access-our-supercomputers/awarded-projects/large-scale-defect-characterization-and-design-quantum-technologies_en>`__ on LUMI in Kajana, Finland.
