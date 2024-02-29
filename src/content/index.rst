@@ -13,7 +13,10 @@ ADAQ is a collection of automatic workflows used for high-throughput calculation
 
 Database
 --------
-We are readying a public online version of the ADAQ database with a planned release during Autumn 2023. A link will be provided here.
+
+The online version of the ADAQ database is available `here`_.
+
+.. _here: https://defects.anyterial.se/
 
 
 Citing ADAQ in scientific works
@@ -29,6 +32,12 @@ This is presently the preferred citation:
 
 Other References
 ----------------
+
+- Bulancea-Lindvall, O., Davidsson, J., Armiento, R., & Abrikosov, I. A., Chlorine vacancy in 4H−SiC: An NV-like defect with telecom-wavelength emission, |clv|_ (**2023**)
+
+.. _clv: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.224106
+
+.. |clv| replace:: *Phys. Rev. B 108, 224106*
 
 - Stenlund, W., Davidsson, J., Ivády, V., Armiento, R., & Abrikosov, I. A., ADAQ-SYM: Automated Symmetry Analysis of Defect Orbitals, |adaqsym|_ (**2023**)
 
