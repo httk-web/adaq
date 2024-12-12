@@ -78,7 +78,13 @@ Other References
 Source Code
 -----------
 
-The code is being made ready for public release.
+The ADAQ code is being made ready for public release.
+
+ADAQ-SYM is available here: |adaqsym|_
+
+.. _adaqsym: https://github.com/WSten/ADAQ-SYM
+
+.. |adaqsym| replace:: *here*
 
 Contact
 -------
