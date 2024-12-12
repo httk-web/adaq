@@ -80,9 +80,9 @@ Source Code
 
 The ADAQ code is being made ready for public release.
 
-ADAQ-SYM is available `here`_.
+ADAQ-SYM is available `here2`_.
 
-.. _here: https://github.com/WSten/ADAQ-SYM
+.. _here2: https://github.com/WSten/ADAQ-SYM
 
 Contact
 -------
